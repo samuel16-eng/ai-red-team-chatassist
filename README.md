@@ -44,3 +44,21 @@ Work in progress. Findings and recommendations will be added as the assessment p
 ## Security Notice
 
 No API keys, private customer data, or confidential course materials are included in this repository.
+
+## Skills Demonstrated
+
+- AI threat modeling and attack-surface analysis
+- Structured adversarial prompt design
+- Vulnerability classification and severity assessment
+- Reproducible security documentation
+- Business-impact analysis
+- Remediation planning and launch-risk evaluation
+- Clear communication for technical and non-technical stakeholders
+
+## Project Navigation
+
+- [Threat Model](threat-model/README.md)
+- [Attack Scenarios](attack-scenarios/README.md)
+- [Garak Results](garak-results/README.md)
+- [Security Findings](findings/README.md)
+- [Remediation Recommendations](remediation/README.md)
